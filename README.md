@@ -25,3 +25,4 @@ An Internet-of-things game that mimics the Star Wars Universe, by modeling invis
 2. The UNITY server classifies mis-actions to train the players to play the game within the scope of the rules.
 
 Details about specifics in design can be understood in the comments in the code (or post an issue).
+(The contributions in this projects are a reflection of effort by Donna Branchevsky, Aidan Wilson, Haoran Ma and Pavan Holur, and open source modules unless otherwise cited)
