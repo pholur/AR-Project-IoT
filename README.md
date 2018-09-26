@@ -1,7 +1,7 @@
 # AR-Project-IoT
 An Internet-of-things game that models the Star Wars Universe, by prototyping invisible light sabers and visors. Topics include: Localization, Speech Recognition and Motion Classification.
 
-This project was created under the direction of Professor Gregory Pottie and TA John Wu for the design capstone class EE180D at UCLA.
+This project was created under the direction of Professor Gregory Pottie and TA John Wu for the design capstone class ECE 180D at UCLA over 6 months and 2 quarters.
 
 Presented in: Annual Research Review | UCLA ECE Department | Spring 2018
 
