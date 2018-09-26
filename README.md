@@ -22,11 +22,15 @@ Presented in: Annual Research Review | UCLA ECE Department | Spring 2018
 4. Server receives these signals and has designed game states to determine the health and level (Status) of either player at any point during game play. States traverse 5 levels to find winner. Note: there are sound effects in our final video demonstration.
 5. We use WiFi to communicate with Server and our 4 clients (TCP-IP) (C).
 
+See the full game in action here: https://youtu.be/8k3PImhCUhA
+
 ![](https://github.com/pholur/AR-Project-IoT/blob/master/Images/TrainingScreenShot.png)
 
 ## The Training Phase
 1. To train the duellists, the feedback-based training module is built separately on UNITY (acting as a separate server)
 2. The UNITY server classifies mis-actions to train the players to play the game within the scope of the rules.
+
+See the training in action here: https://youtu.be/8w2HDfO5Ouc
 
 Details about specifics in design can be understood in the comments in the code (or you could post an issue).
 (The contributions in this projects are a reflection of efforts by Donna Branchevsky, Aidan Wilson, Haoran Ma and Pavan Holur, and we have used other open source modules unless otherwise cited)
